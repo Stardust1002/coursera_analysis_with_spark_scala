@@ -1,0 +1,380 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$2.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$3.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$TimeUsageRow$.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$TimeUsageRow.class
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+binary dependencies:
+6 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$TimeUsageRow
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$TimeUsageRow$
+used names:
+211 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Math
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> diff
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> divide
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> filter
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDS
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> firstCol
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fromSeq
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> l
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> lang
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> others
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> p
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> res
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rest
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDS
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSql
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedTyped
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryTyped
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingActivities
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+26 items
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$2.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$3.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$TimeUsageRow$.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$TimeUsageRow.class -> lastModified(1490279354000)
+/home/ajeannot/workspace/spark_tuto/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1490279354000)
+source stamps:
+1 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(9a9a62b6afddd72efdf74cc0919c62cfe989e0e5)
+binary stamps:
+6 items
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+6 items
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StringType$
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.RelationalGroupedDataset
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.Product
+/home/ajeannot/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB8LGx+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAO3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDqdZI90AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADNchJJd0AAd1bmFwcGx5c3EAfgAM0teXKnQAB2N1cnJpZWRzcQB+AAz+fC/NdAAHd29ya2luZ3NxAH4ADIRA1op0AAR3YWl0c3EAfgAMN508LXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMzzFgQXQADSRhc0luc3RhbmNlT2ZzcQB+AAznlkVsdAAVdGltZVVzYWdlR3JvdXBlZFR5cGVkc3EAfgAM66rbKnQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM80cqwnQADFRpbWVVc2FnZVJvd3NxAH4ADLXQQsh0AAxwcm9kdWN0QXJpdHlzcQB+AAwf1GEQdAAGZXF1YWxzc3EAfgAMD7rgjXQACVRpbWVVc2FnZXNxAH4ADLwQphJ0AAxhc0luc3RhbmNlT2ZzcQB+AAzIzvygdAATdGltZVVzYWdlR3JvdXBlZFNxbHNxAH4ADFxeUEV0AAxzeW5jaHJvbml6ZWRzcQB+AAxHVWqsdAANJGlzSW5zdGFuY2VPZnNxAH4ADPes8u50AAZ0dXBsZWRzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMYIGRs3QACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMuwshg3QADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAxZBgoRdAANcHJvZHVjdFByZWZpeHNxAH4ADAV80o50AANhZ2VzcQB+AAxsVNJFdAAEd29ya3NxAH4ADLsB5Hh0AAlub3RpZnlBbGxzcQB+AAx8dAF7dAALcmVhZFJlc29sdmVzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAztXjGVdAADc2V4c3EAfgAMM93oUnQADGlzSW5zdGFuY2VPZnNxAH4ADFTXUEJ0AAY8aW5pdD5zcQB+AAzGjZw7dAAFYXBwbHlzcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAwxcD8HdAACPT1zcQB+AAzj0AGrdAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMwc5W1nQAFXRpbWVVc2FnZVN1bW1hcnlUeXBlZHNxAH4ADPAEOEx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGvmyTN0AARjb3B5c3EAfgAMVM5W/HQACHRvU3RyaW5nc3EAfgAMRM2qHXQADHByaW1hcnlOZWVkc3NxAH4ADLB9NWd0AAIhPXNxAH4ADDzCU3t0AAhnZXRDbGFzc3NxAH4ADNIVohJ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADET2KJh0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADAjSYUh0AAJuZXNxAH4ADDfKcJx0AAJlcXNxAH4ADK8jsKR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyVXs4GdAAFb3RoZXJzcQB+AAyD8lpedAACIyNzcQB+AAwEK1TidAAIZmluYWxpemVzcQB+AAzfVCFddAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxyrNI3dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATdGltZXVzYWdlLlRpbWVVc2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ApQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AjUwACWluaGVyaXRlZHEAfgCNTAAHcGFyZW50c3EAfgCNeHEAfgCsc3EAfgClAXVxAH4AiAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AjnEAfgCXdXEAfgCYAAAAAHNxAH4AmgBxAH4AQXVxAH4AnQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCrdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aq3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ax3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ALR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKB0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ALtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKtzcQB+ALp0AAVBcnJheXEAfgDAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+ALp0AAZTdHJpbmdzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGdAAEamF2YXNxAH4AxnQABGxhbmdxAH4Ay3BzcQB+AKUBdXEAfgCIAAAAAHBzcQB+AKUBdXEAfgDfAAAAAnNxAH4AunQABk9iamVjdHEAfgDjc3EAfgC6dAADQW55cQB+AMBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvuSS0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL2hvbWUvYWplYW5ub3Qvd29ya3NwYWNlL3NwYXJrX3R1dG8vdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSammK2r93XLv33TMCRnGLP6Yng5Q==
+external apis:
+0 items
+source infos:
+1 items
+/home/ajeannot/workspace/spark_tuto/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvqRsK11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvtfu3p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvtufWF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvt9B7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvuBszt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvuEE8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvuSS0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

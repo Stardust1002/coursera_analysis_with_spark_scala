@@ -1,0 +1,429 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+35 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$12.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$13.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$14.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$15.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3$$anonfun$apply$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6$$anonfun$apply$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7$$anonfun$apply$3.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class
+binary dependencies:
+3 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /home/ajeannot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting$
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$12
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$13
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$14
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$15
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3$$anonfun$apply$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6$$anonfun$apply$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7$$anonfun$apply$3
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+used names:
+235 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> $conforms
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> %
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> &&
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> *
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> +
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> -
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <init>
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ==
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >=
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> AbstractFunction6
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Array
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Boolean
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ClassTag
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Double
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> HashPartitioner
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Int
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterable
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterator
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> List
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Long
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> None
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Option
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Ordering
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Posting
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Predef
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Product
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> RDD
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Random
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ScalaRunTime
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Seq
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Serializable
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkConf
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkContext
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StackOverflow
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Statics
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> String
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringContext
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringOps
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple4
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Unit
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _3
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _4
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _toString
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> abs
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> acceptedAnswer
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> annotation
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answerHighScore
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answers
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> anyHash
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apache
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apply
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$3
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$4
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$5
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$6
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$7
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arr
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> as
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> asInstanceOf
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> assert
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> augmentString
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> averageVectors
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> bestIndex
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> cache
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> canBuildFrom
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> centers
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clone
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closest
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closestGrouped
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterResults
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterSize
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collect
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collection
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> computeMedian
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> conf
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> converged
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> count
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> debug
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> distance
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> elt
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> eq
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> euclideanDistance
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> f
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> filter
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> finalizeHash
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> findClosest
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> firstLangInTag
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> flatMap
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> foreach
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> format
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> get
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> getOrElse
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupBy
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupByKey
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> grouped
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupedPostings
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hasNext
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> head
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> highScore
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> i
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> id
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> idx
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> immutable
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intArrayOps
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intWrapper
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intern
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isEmpty
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isInstanceOf
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> item
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iter
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iterator
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> j
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> join
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeans
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansEta
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansKernels
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansMaxIterations
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lang
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langLabel
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langPercent
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langSpread
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langs
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> last
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> length
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> line
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lines
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lower
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ls
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> map
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mapValues
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> materializeClassTag
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> math
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> means
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> median
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> medianScore
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mix
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ne
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> newMeans
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> next
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> nextLong
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> org
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> p
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> package
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> parentId
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> perLang
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> percent
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> posting
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postingType
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postings
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> printResults
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> println
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ps
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> questions
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> raw
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rawPostings
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rdd
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rddToPairRDDFunctions
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> refArrayOps
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> res
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> reservoirSampling
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> results
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rnd
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> runtime
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> s
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sampleVectors
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sc
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scala
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> score
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scored
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scoredPostings
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setAppName
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setMaster
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> size
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortBy
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortWith
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> spark
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> split
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> splitAt
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stripMargin
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sum
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tag
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tags
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tail
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tailrec
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> takeSample
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tempDist
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> textFile
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tmp
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toArray
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toDouble
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toInt
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toIterator
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toList
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toLong
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toString
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tuple
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> typedProductIterator
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> unchecked
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> until
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> unzip
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> update
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> upper
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> util
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectorPostings
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectors
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vs
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$1
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$2
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$3
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$4
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> withFilter
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$14
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$15
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$16
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$17
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ||
+product stamps:
+35 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$12.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$13.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$14.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11$$anonfun$15.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3$$anonfun$apply$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6$$anonfun$apply$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7$$anonfun$apply$3.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class -> lastModified(1490094296000)
+/home/ajeannot/workspace/spark_tuto/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class -> lastModified(1490094296000)
+source stamps:
+1 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hash(ece3a2c3b4896c3e1a170c0170392a9a34d66fc4)
+binary stamps:
+3 items
+/home/ajeannot/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/home/ajeannot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+3 items
+/home/ajeannot/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.HashPartitioner
+/home/ajeannot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction6
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxTyNmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH1FHht0AAZub3RpZnlzcQB+AAwgvS9odAAJa21lYW5zRXRhc3EAfgAMJv5IrnQAC3Jhd1Bvc3Rpbmdzc3EAfgAM4X5k0nQABHdhaXRzcQB+AAxKYL+mdAAOY29weSRkZWZhdWx0JDJzcQB+AAygG18edAANJGFzSW5zdGFuY2VPZnNxAH4ADKxfRrx0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADPhOYP50AAxwcm9kdWN0QXJpdHlzcQB+AAxXOrzpdAAGZXF1YWxzc3EAfgAMbJf7MnQABHRhZ3NzcQB+AAzJuOm0dAAMYXNJbnN0YW5jZU9mc3EAfgAMwttMO3QADHN5bmNocm9uaXplZHNxAH4ADLMJuwJ0AAVzY29yZXNxAH4ADHJuVjt0AAJzY3NxAH4ADBvwXPB0ABNrbWVhbnNNYXhJdGVyYXRpb25zc3EAfgAMYvE1+3QADSRpc0luc3RhbmNlT2ZzcQB+AAzzzG2IdAANU3RhY2tPdmVyZmxvd3NxAH4ADM5cnh10AAxwcmludFJlc3VsdHNzcQB+AAzIn2t9dAAFbGFuZ3NzcQB+AAyldEDFdAAIY2FuRXF1YWxzcQB+AAwe7hwudAAOY29weSRkZWZhdWx0JDRzcQB+AAzEhN2ydAALcG9zdGluZ1R5cGVzcQB+AAxJ6SMGdAAOdmVjdG9yUG9zdGluZ3NzcQB+AAx7nEv2dAAEbWFpbnNxAH4ADG7Dww50AApsYW5nU3ByZWFkc3EAfgAMpLgpp3QAEGttZWFucyRkZWZhdWx0JDRzcQB+AAx2YY0mdAANcHJvZHVjdFByZWZpeHNxAH4ADHlijuB0AAlub3RpZnlBbGxzcQB+AAyuJJKRdAALcmVhZFJlc29sdmVzcQB+AAxZefNEdAAEY29uZnNxAH4ADBJ4knd0AAljb252ZXJnZWRzcQB+AAwOSkICdAAMaXNJbnN0YW5jZU9mc3EAfgAMvT760XQABjxpbml0PnNxAH4ADJJ4O+50AAJpZHNxAH4ADKImXfN0ABBrbWVhbnMkZGVmYXVsdCQzc3EAfgAMGYhbQ3QAB1Bvc3RpbmdzcQB+AAwW7WQmdAAOc2NvcmVkUG9zdGluZ3NzcQB+AAzmBbp7dAACPT1zcQB+AAxQV91sdAANY29tcHV0ZU1lZGlhbnNxAH4ADARsow90AAVjbG9uZXNxAH4ADKoKMtR0AA5hY2NlcHRlZEFuc3dlcnNxAH4ADHhDZ+x0AA1rbWVhbnNLZXJuZWxzc3EAfgAMaNfozHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMZpJBLnQABGNvcHlzcQB+AAy3qQDrdAAIdG9TdHJpbmdzcQB+AAxE/q+8dAAPZ3JvdXBlZFBvc3Rpbmdzc3EAfgAMszZOKnQAAiE9c3EAfgAMONA2lnQADXNhbXBsZVZlY3RvcnNzcQB+AAymB5nDdAAOY2x1c3RlclJlc3VsdHNzcQB+AAxdUx1NdAAIZ2V0Q2xhc3NzcQB+AAzsS+zhdAAOY29weSRkZWZhdWx0JDFzcQB+AAzQ9y4pdAARZXVjbGlkZWFuRGlzdGFuY2VzcQB+AAwFl+p2dAAOY29weSRkZWZhdWx0JDZzcQB+AAx/l8l0dAACbmVzcQB+AAwDFPMBdAAIcGFyZW50SWRzcQB+AAxZzEItdAAOYXZlcmFnZVZlY3RvcnNzcQB+AAyeTetbdAACZXFzcQB+AAx4Xj+kdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMp62R1nQAAiMjc3EAfgAMEyzTt3QACGZpbmFsaXplc3EAfgAMCyl8FnQAC2ZpbmRDbG9zZXN0c3EAfgAMks+k4HQABmttZWFuc3NxAH4ADLQcEpN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDija4N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVzdGFja292ZXJmbG93LlBvc3Rpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ArwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Al0wACWluaGVyaXRlZHEAfgCXTAAHcGFyZW50c3EAfgCXeHEAfgC2c3EAfgCvAXVxAH4AkgAAAABwc3EAfgCvAXVxAH4AkgAAAABwc3EAfgCvAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtXQAB1Byb2R1Y3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJ0AAZFcXVhbHNxAH4AyHNxAH4AwnQADFNlcmlhbGl6YWJsZXEAfgDIc3EAfgDCcQB+ANdzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOdAAEamF2YXNxAH4AznQAAmlvcQB+ANNzcQB+AMJ0AAZPYmplY3RzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOcQB+AN1zcQB+AM50AARsYW5ncQB+ANNzcQB+AMJ0AANBbnlxAH4AyHBwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHQAG3N0YWNrb3ZlcmZsb3cuU3RhY2tPdmVyZmxvd3VxAH4ApwAAAAB+cQB+AKl0AAZNb2R1bGV1cQB+AK0AAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3EAfgCvAXEAfgC3cHNxAH4ArwFzcQB+ALlzcQB+AK8BdXEAfgCSAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCYcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgA9dXEAfgCnAAAAAHNxAH4AwnQABFVuaXRzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOcQB+ANFxAH4A03VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+APl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALVzcQB+AMJ0AAVBcnJheXEAfgEBdXEAfgDAAAAAAXNxAH4AwnQABlN0cmluZ3NxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM5xAH4A3XNxAH4AznEAfgDncQB+ANNwc3EAfgCvAXVxAH4AkgAAAABwc3EAfgCvAXVxAH4AwAAAAAVzcQB+AMJ0AA1TdGFja092ZXJmbG93c3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQADXN0YWNrb3ZlcmZsb3dxAH4A03NxAH4AwnEAfgDXcQB+AQFzcQB+AMJxAH4A13NxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM5xAH4A3XNxAH4AznQAAmlvcQB+ANNzcQB+AMJxAH4A4XEAfgEbc3EAfgDCcQB+AOlxAH4BAXBwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHQAG3N0YWNrb3ZlcmZsb3cuU3RhY2tPdmVyZmxvd3VxAH4ApwAAAABxAH4Aq3VxAH4ArQAAAAF0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWNzcQB+AK8BcQB+ALdwc3EAfgCvAXNxAH4AuXNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AMAAAAAEc3EAfgDCcQB+ANdzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOcQB+ANFxAH4A03NxAH4AwnEAfgDXc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDdc3EAfgDOdAACaW9xAH4A03NxAH4AwnEAfgDhc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDdc3EAfgDOcQB+AOdxAH4A03NxAH4AwnEAfgDpcQB+AUZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXN0YWNrb3ZlcmZsb3dzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrwiorOdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOzjosO0iWw+GhcMAXA5Kpo01m/E
+external apis:
+0 items
+source infos:
+1 items
+/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+AAAAAAAAAAA=
+compilations:
+14 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWusu3QV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWutmWpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWutnEP51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWutnpZ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuty7nl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWut2hjl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuyhkM11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuytTKF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvA5Qzh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvBIZip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvBgQMZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvBtS9x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvB1qel1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvCKis51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2FqZWFubm90L3dvcmtzcGFjZS9zcGFya190dXRvL3N0YWNrb3ZlcmZsb3cvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

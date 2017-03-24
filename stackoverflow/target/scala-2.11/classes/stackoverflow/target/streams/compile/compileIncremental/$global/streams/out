@@ -1,0 +1,86 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 5488cdf1, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/ajeannot/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.rdd.RDD[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:17: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m  @transient lazy val conf: SparkConf = new SparkConf().setMaster("local").setAppName("StackOverflow")[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:17: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m  @transient lazy val conf: SparkConf = new SparkConf().setMaster("local").setAppName("StackOverflow")[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:18: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m  @transient lazy val sc: SparkContext = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:18: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m  @transient lazy val sc: SparkContext = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                                             ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:67: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def rawPostings(lines: RDD[String]): RDD[Posting] =[0m
+[0m[[31merror[0m] [0m                                       ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:67: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def rawPostings(lines: RDD[String]): RDD[Posting] =[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:80: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def groupedPostings(postings: RDD[Posting]): RDD[(Int, Iterable[(Posting, Posting)])] = {[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:80: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def groupedPostings(postings: RDD[Posting]): RDD[(Int, Iterable[(Posting, Posting)])] = {[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:88: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def scoredPostings(grouped: RDD[(Int, Iterable[(Posting, Posting)])]): RDD[(Posting, Int)] = {[0m
+[0m[[31merror[0m] [0m                                                                         ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:88: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def scoredPostings(grouped: RDD[(Int, Iterable[(Posting, Posting)])]): RDD[(Posting, Int)] = {[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:110: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def vectorPostings(scored: RDD[(Posting, Int)]): RDD[(Int, Int)] = {[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:110: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def vectorPostings(scored: RDD[(Posting, Int)]): RDD[(Int, Int)] = {[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:178: not found: type RDD[0m
+[0m[[31merror[0m] [0m  @tailrec final def kmeans(means: Array[(Int, Int)], vectors: RDD[(Int, Int)], iter: Int = 1, debug: Boolean = false): Array[(Int, Int)] = {[0m
+[0m[[31merror[0m] [0m                                                               ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:275: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def clusterResults(means: Array[(Int, Int)], vectors: RDD[(Int, Int)]): Array[(String, Double, Int, Int)] = {[0m
+[0m[[31merror[0m] [0m                                                        ^[0m
+[0m[[31merror[0m] [0m/home/ajeannot/workspace/spark_tuto/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala:129: not found: type RDD[0m
+[0m[[31merror[0m] [0m  def sampleVectors(vectors: RDD[(Int, Int)]): Array[(Int, Int)] = {[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m19 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
